@@ -1,0 +1,1566 @@
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): -2.811249348678936
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): -2.7531256290713366
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -3.7708236726152613
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): -2.6953846869690796
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -1.6080611732624157
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): -2.525237452916863
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): -2.4192625088257196
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -5.142192467367172
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): -2.444023286697878
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -2.168240283934375
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): 0.04544813002780475
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -2.4289617930122716
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): 0.02501252848964386
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -1.2298999501393186
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 12:46:48: Best Score for RandomForestRegressor(random_state=42): 0.0677004911565566
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 12:46:48: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 12:46:48: Best Score for LinearSVR(random_state = 42): -2.4684403919330764
+15.01.2023, 12:46:48: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): -2.811249348678936
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): -2.7531256290713366
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -3.7708236726152613
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): -2.6953846869690796
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -1.6080611732624157
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): -2.525237452916863
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): -2.4192625088257196
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -5.142192467367172
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): -2.444023286697878
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -2.168240283934375
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): 0.04544813002780475
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -2.4289617930122716
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): 0.02501252848964386
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -1.2298999501393186
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:02:47: Best Score for RandomForestRegressor(random_state=42): 0.0677004911565566
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:02:47: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:02:47: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:02:47: Best Score for LinearSVR(random_state = 42): -2.4684403919330764
+15.01.2023, 14:02:47: ____________________________________________________________
+15.01.2023, 14:09:54: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:09:54: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:09:54: Best Score for RandomForestRegressor(random_state=42): -2.811249348678936
+15.01.2023, 14:09:54: ____________________________________________________________
+15.01.2023, 14:09:54: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:09:54: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:09:54: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 14:09:54: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): -2.811249348678936
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): -2.7531256290713366
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -3.7708236726152613
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): -2.6953846869690796
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -1.6080611732624157
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): -2.525237452916863
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): -2.4192625088257196
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -5.142192467367172
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): -2.444023286697878
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -2.168240283934375
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): 0.04544813002780475
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -2.4289617930122716
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): 0.02501252848964386
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -1.2298999501393186
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:11:10: Best Score for RandomForestRegressor(random_state=42): 0.0677004911565566
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:11:10: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:11:10: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:11:10: Best Score for LinearSVR(random_state = 42): -2.4684403919330764
+15.01.2023, 14:11:10: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:31:04: Best Score for RandomForestRegressor(random_state=42): -2.811249348678936
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:31:04: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:31:04: Best Score for RandomForestRegressor(random_state=42): -2.7531256290713366
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:31:04: Best Score for LinearSVR(random_state = 42): -3.7708236726152613
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:31:04: Best Score for RandomForestRegressor(random_state=42): -2.6953846869690796
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:31:04: Best Score for LinearSVR(random_state = 42): -1.6080611732624157
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:31:04: Best Score for RandomForestRegressor(random_state=42): -2.525237452916863
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:31:04: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:31:04: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:31:04: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 14:31:04: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): -2.811249348678936
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): -2.7531256290713366
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -3.7708236726152613
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): -2.6953846869690796
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -1.6080611732624157
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): -2.525237452916863
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): -2.4192625088257196
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -5.142192467367172
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): -2.444023286697878
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -2.168240283934375
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): 0.04544813002780475
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -2.4289617930122716
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 1, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): 0.02501252848964386
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -1.2298999501393186
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:33:34: Best Score for RandomForestRegressor(random_state=42): 0.0677004911565566
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:33:34: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:33:34: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 14:33:34: Best Score for LinearSVR(random_state = 42): -2.4684403919330764
+15.01.2023, 14:33:34: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.8245413466262796
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.7697549779421236
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.7447363023653883
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.6495814663874206
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.5946066820388882
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.576400339014785
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): 0.12762265529035038
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): 0.10981576658183542
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): 0.08812725480253247
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.809458702939304
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.8125540482335234
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.8252447483425778
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.752338967369739
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.750644421334917
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.7740312686642556
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.691919551379934
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.6874464744592035
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.7450782044210107
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.524696135936332
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.520722561069282
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.649581466387497
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.4168265010123626
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.419651306729624
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.5930207523868494
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.445332791774616
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): -2.439686627342992
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): -2.5806627859568896
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): 0.057928740697998714
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): 0.05149019194516424
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): 0.10596864689595753
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): 0.02487441260679344
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): 0.024009355512527142
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): 0.10981576658183978
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): 0.05144918764525312
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 14:49:17: Best Score for RandomForestRegressor(random_state=42): 0.05962992838599388
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 14:49:17: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 14:49:17: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 14:49:17: Best Score for LinearRegression(): 0.08812725480253707
+15.01.2023, 14:49:17: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.809458702939304
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.8125540482335234
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): -2.8252447483425778
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.752338967369739
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.750644421334917
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -5.939706052386983
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): -2.7740312686642556
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.691919551379934
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.6874464744592035
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -6.92219260513779
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): -2.7450782044210107
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.524696135936332
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.520722561069282
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): -2.649581466387497
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.4168265010123626
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.419651306729624
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -5.142192467367172
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): -2.5930207523868494
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.445332791774616
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): -2.439686627342992
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -2.168240283934375
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): -2.5806627859568896
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): 0.057928740697998714
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): 0.05149019194516424
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -2.4289617930122716
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): 0.10596864689595753
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): 0.02487441260679344
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): 0.024009355512527142
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -1.2298999501393186
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): 0.10981576658183978
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): 0.05144918764525312
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:09:52: Best Score for RandomForestRegressor(random_state=42): 0.05962992838599388
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:09:52: Best Score for LinearSVR(random_state = 42): -2.4684403919330764
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:09:52: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:09:52: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:09:52: Best Score for LinearRegression(): 0.08812725480253707
+15.01.2023, 15:09:52: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.809458702939304
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.8125540482335234
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): -2.8252447483425778
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -3.2399138759415953
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.752338967369739
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.750644421334917
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -5.939706052386983
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): -2.7740312686642556
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -3.1350835716132663
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.691919551379934
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.6874464744592035
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -6.92219260513779
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): -2.7450782044210107
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -3.123934033222084
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.524696135936332
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.520722561069282
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): -2.649581466387497
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -3.0286337366291898
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.4168265010123626
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.419651306729624
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -5.142192467367172
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): -2.5930207523868494
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -2.982066482329526
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.445332791774616
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): -2.439686627342992
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -2.168240283934375
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): -2.5806627859568896
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -2.966281400504912
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): 0.057928740697998714
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): 0.05149019194516424
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -2.4289617930122716
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): 0.10596864689595753
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -0.016746031746031863
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): 0.02487441260679344
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): 0.024009355512527142
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -1.2298999501393186
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): 0.10981576658183978
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -0.0613516113516114
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): 0.05144918764525312
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:15:27: Best Score for RandomForestRegressor(random_state=42): 0.05962992838599388
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:15:27: Best Score for LinearSVR(random_state = 42): -2.4684403919330764
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:15:27: Best Score for LinearRegression(): 0.08812725480253707
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:15:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:15:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:15:27: Best Score for  KNeighborsRegressor(): -0.09367724867724872
+15.01.2023, 15:15:27: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.809458702939304
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.8125540482335234
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -2.8257589691240597
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): -2.8252447483425778
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -3.2399138759415953
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -4.018113555137963
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.752338967369739
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.750644421334917
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -5.939706052386983
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): -2.7740312686642556
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -3.1350835716132663
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -4.113420323429816
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.691919551379934
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.6874464744592035
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -6.92219260513779
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): -2.7450782044210107
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -3.123934033222084
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -4.051574979181815
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.524696135936332
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.520722561069282
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -3.4310119993064077
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): -2.649581466387497
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -3.0286337366291898
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -3.979181679211641
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.4168265010123626
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.419651306729624
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -5.142192467367172
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): -2.5930207523868494
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -2.982066482329526
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -3.749118966480831
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.445332791774616
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): -2.439686627342992
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -2.168240283934375
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): -2.5806627859568896
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -2.966281400504912
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -3.68062350807421
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): 0.057928740697998714
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): 0.05149019194516424
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -2.4289617930122716
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): 0.10596864689595753
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -0.016746031746031863
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -0.5032936507936508
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): 0.02487441260679344
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): 0.024009355512527142
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -1.2298999501393186
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): 0.10981576658183978
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -0.0613516113516114
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -0.6317821067821069
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): 0.05144918764525312
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:23:45: Best Score for RandomForestRegressor(random_state=42): 0.05962992838599388
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearSVR(random_state = 42): {}
+15.01.2023, 15:23:45: Best Score for LinearSVR(random_state = 42): -2.4684403919330764
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:23:45: Best Score for LinearRegression(): 0.08812725480253707
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:23:45: Best Score for  KNeighborsRegressor(): -0.09367724867724872
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:23:45: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:23:45: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:23:45: Best Score for DecisionTreeRegressor(random_state=42): -0.708015873015873
+15.01.2023, 15:23:45: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.809458702939304
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.8125540482335234
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -2.8257589691240597
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): -2.8252447483425778
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -3.2399138759415953
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): -3.675846531224807
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -4.018113555137963
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.752338967369739
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.750644421334917
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -5.939706052386983
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): -2.7740312686642556
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -3.1350835716132663
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): -3.6442027832530983
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -4.113420323429816
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.691919551379934
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.6874464744592035
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -6.92219260513779
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): -2.7450782044210107
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -3.123934033222084
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): -3.6363273242415026
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -4.051574979181815
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.524696135936332
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.520722561069282
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -3.4310119993064077
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): -2.649581466387497
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -3.0286337366291898
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): -3.2488464151877423
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -3.979181679211641
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.4168265010123626
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.419651306729624
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -5.142192467367172
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): -2.5930207523868494
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -2.982066482329526
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): -3.2373598370436296
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -3.749118966480831
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.445332791774616
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): -2.439686627342992
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -2.168240283934375
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): -2.5806627859568896
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -2.966281400504912
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): -3.2115338228785184
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -3.68062350807421
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): 0.057928740697998714
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): 0.05149019194516424
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -2.4289617930122716
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): 0.10596864689595753
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -0.016746031746031863
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): 0.042472415971141333
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -0.5032936507936508
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): 0.02487441260679344
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 0, 'model__max_depth': None, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 4, 'model__min_samples_split': 2, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): 0.024009355512527142
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -1.2298999501393186
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): 0.10981576658183978
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -0.0613516113516114
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): 0.04091063146281067
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'sqrt', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -0.6317821067821069
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): 0.05144918764525312
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for RandomForestRegressor(random_state=42): {'model__bootstrap': 1, 'model__max_depth': None, 'model__max_features': 'auto', 'model__min_samples_leaf': 4, 'model__min_samples_split': 10, 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for RandomForestRegressor(random_state=42): 0.05962992838599388
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearSVR(random_state=42): {}
+15.01.2023, 15:31:24: Best Score for LinearSVR(random_state=42): -2.4684403919330764
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for LinearRegression(): {'model__n_jobs': -1}
+15.01.2023, 15:31:24: Best Score for LinearRegression(): 0.08812725480253707
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 3, 'model__p': 1}
+15.01.2023, 15:31:24: Best Score for  KNeighborsRegressor(): -0.09367724867724872
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for  GradientBoostingRegressor(random_state = None): {'model__init': None, 'model__learning_rate': 0.1, 'model__loss': 'squared_error', 'model__max_depth': 3, 'model__max_features': 'auto', 'model__n_estimators': 5}
+15.01.2023, 15:31:24: Best Score for  GradientBoostingRegressor(random_state = None): 0.019480179992292457
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:31:24: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 15:31:24: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': None, 'model__max_features': 'auto', 'model__splitter': 'best'}
+15.01.2023, 15:31:24: Best Score for DecisionTreeRegressor(random_state=42): -0.708015873015873
+15.01.2023, 15:31:24: ____________________________________________________________
+15.01.2023, 15:59:03: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 15:59:03: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 16, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 15:59:03: Best Score for  KNeighborsRegressor(): -2.952978708437601
+15.01.2023, 15:59:03: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 16, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.952978708437601
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.9388816198184236
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 10, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.904352141661559
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 7, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.892844386057185
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.8959697171896672
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.9614617845686704
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7765535037545606
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'auto', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.8252536903512193
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7162851248803475
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.754255538795575
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 10, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7114770586332257
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.743032949246735
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 16, 'model__p': 3, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.10587181662752698
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'auto', 'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.07512424402010791
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.09809813602291653
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.07964920701469407
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.08041644423093071
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.10039015197742467
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: 1895.0524201393127
+15.01.2023, 19:30:27: ____________________________________________________________
+15.01.2023, 19:30:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 19:30:27: Best Parameters for RandomForestRegressor(random_state=42): {'modelbootstrap': 1, 'modelmax_depth': 1, 'modelmax_features': 'sqrt', 'modelmin_samples_leaf': 4, 'modelmin_samples_split': 2, 'modeln_estimators': 1400}
+15.01.2023, 19:30:27: Best Score for RandomForestRegressor(random_state=42): 0.711783048493038
+15.01.2023, 19:30:27: ____________________________________________________________
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 16, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.952978708437601
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.9388816198184236
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 10, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.904352141661559
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 7, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.892844386057185
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.8959697171896672
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.9614617845686704
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7765535037545606
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'auto', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.8252536903512193
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7162851248803475
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.754255538795575
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 10, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7114770586332257
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.743032949246735
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 16, 'model__p': 3, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.10587181662752698
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'auto', 'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.07512424402010791
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.09809813602291653
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.07964920701469407
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.08041644423093071
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.10039015197742467
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: 1895.0524201393127
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 16, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.952978708437601
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.9388816198184236
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 10, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.904352141661559
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 7, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.892844386057185
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.8959697171896672
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_clean, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.9614617845686704
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7765535037545606
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'auto', 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.8252536903512193
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7162851248803475
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.754255538795575
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 10, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): -2.7114770586332257
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_no_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'auto', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -2.743032949246735
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 16, 'model__p': 3, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.10587181662752698
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: univariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'auto', 'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.07512424402010791
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.09809813602291653
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 3, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.07964920701469407
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for  KNeighborsRegressor(): {'model__algorithm': 'ball_tree', 'model__n_neighbors': 13, 'model__p': 1, 'model__weights': 'distance'}
+15.01.2023, 16:51:27: Best Score for  KNeighborsRegressor(): 0.08041644423093071
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: Input dataframe: df_wine_gamay, Preprocessing: uni-multivariate outlier + noise
+15.01.2023, 16:51:27: Best Parameters for DecisionTreeRegressor(random_state=42): {'model__max_depth': 5, 'model__max_features': 'sqrt', 'model__min_samples_leaf': 3, 'model__min_samples_split': 2, 'model__splitter': 'best'}
+15.01.2023, 16:51:27: Best Score for DecisionTreeRegressor(random_state=42): -0.10039015197742467
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 16:51:27: 1895.0524201393127
+15.01.2023, 16:51:27: ____________________________________________________________
+15.01.2023, 21:16:30: best: {'n_estimators': 1600, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_depth': 70, 'bootstrap': False}
+15.01.2023, 21:16:30: Score MAE for  RF:        0.4482
+15.01.2023, 21:16:30: Score MAPE for RF:        0.0804
+15.01.2023, 21:16:30: Score MSE for  RF:        0.4127
+15.01.2023, 21:16:30: Score RMSE for RF:        0.6425
+15.01.2023, 21:16:30: ------------------------------------------------------------
+15.01.2023, 21:16:30: Score MAE for  Tuned RF:  0.4479
+15.01.2023, 21:16:30: Score MAPE for Tuned RF:  0.0804
+15.01.2023, 21:16:30: Score MSE for  Tuned RF:  0.4123
+15.01.2023, 21:16:30: Score RMSE for Tuned RF:  0.6421
+15.01.2023, 21:16:30: best: {'n_estimators': 1600, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'auto', 'max_depth': 40, 'bootstrap': True}
+15.01.2023, 21:16:30: best: {'n_estimators': 1600, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'auto', 'max_depth': 40, 'bootstrap': True}
+15.01.2023, 21:16:30: Score MAE for  RF:        0.5019
+15.01.2023, 21:16:30: Score MAPE for RF:        0.0950
+15.01.2023, 21:16:30: Score MSE for  RF:        0.4200
+15.01.2023, 21:16:30: Score RMSE for RF:        0.6481
+15.01.2023, 21:16:30: ------------------------------------------------------------
+15.01.2023, 21:16:30: Score MAE for  Tuned RF:  0.4618
+15.01.2023, 21:16:30: Score MAPE for Tuned RF:  0.0876
+15.01.2023, 21:16:30: Score MSE for  Tuned RF:  0.3835
+15.01.2023, 21:16:30: Score RMSE for Tuned RF:  0.6193
+15.01.2023, 22:00:18: best: {'n_estimators': 1800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_depth': 110, 'bootstrap': False}
+15.01.2023, 22:00:18: Score MAE for  RF:        0.4803
+15.01.2023, 22:00:18: Score MAPE for RF:        0.0849
+15.01.2023, 22:00:18: Score MSE for  RF:        0.4000
+15.01.2023, 22:00:18: Score RMSE for RF:        0.6324
+15.01.2023, 22:00:18: ------------------------------------------------------------
+15.01.2023, 22:00:18: Score MAE for  Tuned RF:  0.3915
+15.01.2023, 22:00:18: Score MAPE for Tuned RF:  0.0699
+15.01.2023, 22:00:18: Score MSE for  Tuned RF:  0.3215
+15.01.2023, 22:00:18: Score RMSE for Tuned RF:  0.5670
+15.01.2023, 22:39:16: best: {'n_estimators': 1400, 'min_samples_split': 5, 'min_samples_leaf': 4, 'max_features': 'log2', 'max_depth': 60, 'bootstrap': False}
+15.01.2023, 22:39:16: Score MAE for  RF:        0.4109
+15.01.2023, 22:39:16: Score MAPE for RF:        0.3061
+15.01.2023, 22:39:16: Score MSE for  RF:        0.2191
+15.01.2023, 22:39:16: Score RMSE for RF:        0.4681
+15.01.2023, 22:39:16: ------------------------------------------------------------
+15.01.2023, 22:39:16: Score MAE for  Tuned RF:  0.3828
+15.01.2023, 22:39:16: Score MAPE for Tuned RF:  0.2952
+15.01.2023, 22:39:16: Score MSE for  Tuned RF:  0.2088
+15.01.2023, 22:39:16: Score RMSE for Tuned RF:  0.4569
+15.01.2023, 23:05:38: MSE: 0.38513485424588084
+15.01.2023, 23:05:38: R2: 0.652799369475306
+15.01.2023, 23:05:38: MSE: 0.4154591315453385
+15.01.2023, 23:05:38: R2: 0.6607033028732799
+15.01.2023, 23:05:38: MSE: 0.402055938697318
+15.01.2023, 23:05:38: R2: 0.6785778526832984
+15.01.2023, 23:05:38: MSE: 0.3996304177545692
+15.01.2023, 23:05:38: R2: 0.46369470706091165
+15.01.2023, 23:05:38: MSE: 0.4370177631578947
+15.01.2023, 23:05:38: R2: 0.4192187730083935
+15.01.2023, 23:05:38: MSE: 0.37797447368421055
+15.01.2023, 23:05:38: R2: 0.4746400487054786
+15.01.2023, 23:05:38: MSE: 0.17331304347826088
+15.01.2023, 23:05:38: R2: 0.29474923076923043
+15.01.2023, 23:05:38: MSE: 0.1746391304347826
+15.01.2023, 23:05:38: R2: 0.1751419642857145
+15.01.2023, 23:05:38: MSE: 0.20631304347826085
+15.01.2023, 23:05:38: R2: 0.025539285714285986
+15.01.2023, 23:05:38: best: {'n_estimators': 1600, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'auto', 'max_depth': 30, 'bootstrap': True}
+15.01.2023, 23:05:38: Score MAE for  RF:        0.4843
+15.01.2023, 23:05:38: Score MAPE for RF:        0.0906
+15.01.2023, 23:05:38: Score MSE for  RF:        0.4021
+15.01.2023, 23:05:38: Score RMSE for RF:        0.6341
+15.01.2023, 23:05:38: ------------------------------------------------------------
+15.01.2023, 23:05:38: Score MAE for  Tuned RF:  0.4477
+15.01.2023, 23:05:38: Score MAPE for Tuned RF:  0.0840
+15.01.2023, 23:05:38: Score MSE for  Tuned RF:  0.3648
+15.01.2023, 23:05:38: Score RMSE for Tuned RF:  0.6040
+15.01.2023, 23:05:38: best: {'n_estimators': 1400, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 70, 'bootstrap': False}
+15.01.2023, 23:05:38: Score MAE for  RF:        0.4742
+15.01.2023, 23:05:38: Score MAPE for RF:        0.0836
+15.01.2023, 23:05:38: Score MSE for  RF:        0.3780
+15.01.2023, 23:05:38: Score RMSE for RF:        0.6148
+15.01.2023, 23:05:38: ------------------------------------------------------------
+15.01.2023, 23:05:38: Score MAE for  Tuned RF:  0.3964
+15.01.2023, 23:05:38: Score MAPE for Tuned RF:  0.0701
+15.01.2023, 23:05:38: Score MSE for  Tuned RF:  0.3155
+15.01.2023, 23:05:38: Score RMSE for Tuned RF:  0.5617
+15.01.2023, 23:05:38: best: {'n_estimators': 1800, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 10, 'bootstrap': True}
+15.01.2023, 23:05:38: Score MAE for  RF:        0.3643
+15.01.2023, 23:05:38: Score MAPE for RF:        0.2824
+15.01.2023, 23:05:38: Score MSE for  RF:        0.2063
+15.01.2023, 23:05:38: Score RMSE for RF:        0.4542
+15.01.2023, 23:05:38: ------------------------------------------------------------
+15.01.2023, 23:05:38: Score MAE for  Tuned RF:  0.3894
+15.01.2023, 23:05:38: Score MAPE for Tuned RF:  0.2993
+15.01.2023, 23:05:38: Score MSE for  Tuned RF:  0.2115
+15.01.2023, 23:05:38: Score RMSE for Tuned RF:  0.4599

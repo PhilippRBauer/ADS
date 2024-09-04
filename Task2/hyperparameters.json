@@ -1,0 +1,62 @@
+{
+    "models": {
+        "rfc": {
+            "model__n_estimators": [100, 200, 800, 1200],
+            "model__max_features": ["auto", "sqrt", "log2"],
+            "model__min_samples_split": [2, 5, 10],
+            "model__min_samples_leaf": [1, 2, 4],
+            "model__max_depth": [10, 20, 30, 40],
+            "model__bootstrap": [1, 0],
+            "keys_to_remove": ["keys_to_remove", "model", "preprocessing"],
+            "model": "RandomForestRegressor(random_state=42)"
+        },
+        "lvr": {
+            "model__C": [0.1, 1, 10],
+            "model__epsilon": [0.01, 0.1, 0.5],
+            "model__loss": ["epsilon_insensitive", "squared_epsilon_insensitive"],
+            "model__fit_intercept": [1, 0],
+            "model__max_iter": [100, 500, 1000],
+            "model__dual": [1, 0],
+            "keys_to_remove": ["keys_to_remove", "model"],
+            "model": "LinearSVR(random_state=42)"
+        },
+        "lr": {
+            "model__n_jobs": [-1],
+            "keys_to_remove": ["keys_to_remove", "model", "preprocessing"],
+            "preprocessing": ["StandardScaler()"],
+            "model": "LinearRegression()"
+        },
+        "knn": {
+            "model__n_neighbors": [3, 5, 7, 10, 13, 16],
+            "model__weights": ["uniform", "distance"],
+            "model__algorithm": ["ball_tree", "kd_tree", "brute"],
+            "model__p": [1, 2, 3],
+            "keys_to_remove": ["keys_to_remove", "model", "preprocessing"],
+            "preprocessing": ["StandardScaler()"],
+            "model": " KNeighborsRegressor()"
+        },
+        "gbr": {
+          "model__loss": ["squared_error", "lad", "huber"],
+          "model__learning_rate": [0.1, 0.01],
+          "model__n_estimators": [100, 500],
+          "model__subsample": [0.5, 0.8, 1.0],
+          "model__min_samples_split": [2, 4, 6],
+          "model__min_samples_leaf": [1, 2, 3],
+          "model__max_features": ["auto"],
+          "model__max_depth": [3, 5, 10],
+          "model__init": [null],
+          "keys_to_remove": ["keys_to_remove", "model"],
+          "model": " GradientBoostingRegressor(random_state=None)"
+        },
+        "dt": {
+            "model__max_depth": [3, 5, 7, 10],
+            "model__min_samples_split": [2, 4, 6],
+            "model__min_samples_leaf": [1, 2, 3],
+            "model__criterion": ["gini", "entropy"],
+            "model__splitter": ["best"],
+            "model__max_features": ["auto", "sqrt", "log2"],
+            "keys_to_remove": ["keys_to_remove", "model"],
+            "model": "DecisionTreeRegressor(random_state=42)"
+        }
+    }
+}
